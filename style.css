@@ -6,7 +6,7 @@ body {
 }
 
 body p {
-    font-size: 12px;
+    font-size: 35px;
 }
 
 div.topbar {
@@ -14,13 +14,14 @@ div.topbar {
     height: 40px;
     background-color:black;
     color:whitesmoke;
+    font-size: 20px
 }
 
 div.topbar {
     align-self: auto;
 }
 
-ul {
+div.topbar ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
